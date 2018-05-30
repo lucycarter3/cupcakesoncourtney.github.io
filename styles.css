@@ -152,7 +152,6 @@ position: relative;
 padding-left: 20px;
 margin-left: auto;
 margin-right: auto;
-margin-right: auto;
 height: 46px;
 Font-Family: Knewave;
 Font-Style: Regular;
@@ -167,23 +166,11 @@ position: relative;
 padding-left: 20px;
 margin-left: auto;
 margin-right: auto;
-margin-right: auto;
 height: 46px;
 Font-Family: Knewave;
 Font-Style: Regular;
 Font-Size: 40px;
 Line-Height: 46px;
-Fill: Solid: #000000;
-}
-
-.galleryimages {
-position: relative;
-padding-left: 20px;
-margin-left: auto;
-margin-right: auto;
-margin-right: auto;
-height: 100px;
-width: 100px;
 Fill: Solid: #000000;
 }
 
