@@ -24,408 +24,41 @@ width: 1231px;
 height: 187px;
 left: 105px;
 top: 34px;
-
 font-family: Knewave;
 font-style: normal;
 font-weight: normal;
 line-height: normal;
 font-size: 120px;
-
 color: #000000;
 }
 
-
-.sprinkles {
-position: absolute;
-width: 1364.67px;
-height: 248.08px;
-left: 18px;
-top: 18px;
+.headertype2 {
+position: relative;
+text-align: center;
+Font-Family: Knewave;
+Font-Style: Regular;
+font-size: 80px;
+text-decoration-color: black;
 }
 
-.sprinkles2 {
-position: absolute;
-left: 2.09%;
-right: 96.99%;
-top: 51.79%;
-bottom: 42.09%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(17.11deg);
+a:link, a:visited {
+text-decoration: none;
+text-decoration-color: black;
 }
-
-
-.sprinkles3 {
-position: absolute;
-left: 78.17%;
-right: 20.82%;
-top: 72.04%;
-bottom: 22.81%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(27.09deg);
-}
-
-.sprinkles4 {
-position: absolute;
-left: 68.65%;
-right: 30.34%;
-top: 0%;
-bottom: 94.85%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(27.09deg);
-}
-
-
-.sprinkles5 {
-position: absolute;
-left: 55.73%;
-right: 43.26%;
-top: 31.47%;
-bottom: 63.39%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(-161.47deg);
-}
-
-
-.sprinkles6 {
-position: absolute;
-left: 38.48%;
-right: 60.51%;
-top: 22.82%;
-bottom: 72.03%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(95.79deg);
-}
-
-.sprinkles7 {
-position: absolute;
-left: 80.78%;
-right: 17.43%;
-top: 17.55%;
-bottom: 75.4%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(-112.19deg);
-}
-
-
-.sprinkles8 {
-position: absolute;
-left: 98.21%;
-right: 0%;
-top: 20.96%;
-bottom: 71.98%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(4.04deg);
-}
-
-.sprinkles9 {
-position: absolute;
-left: 89.11%;
-right: 9.1%;
-top: 27.42%;
-bottom: 68.1%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(-24.13deg);
-}
-
-.sprinkles10 {
-position: absolute;
-left: 98.82%;
-right: 0.12%;
-top: 57.64%;
-bottom: 38.33%;
-background-color: #745F7E;
-border: 5px solid #745F7E;
-transform: rotate(59.16deg);
-}
-
-.sprinkles11 {
-position: absolute;
-left: 86.02%;
-right: 12.19%;
-top: 79.33%;
-bottom: 13.73%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(167.04deg);
-}
-
-.sprinkles12 {
-position: absolute;
-left: 60.46%;
-right: 37.75%;
-top: 1.61%;
-bottom: 92.65%;
-background-color: #745F7E;
-border: 5px solid #745F7E;
-transform: rotate(83.43deg);
-}
-
-.sprinkles13 {
-position: absolute;
-left: 44.51%;
-right: 53.7%;
-top: 96.37%;
-bottom: -2.1%;
-background-color: #0029FF;
-border: 5px solid #0029FF;
-transform: rotate(-120deg);
-}
-
-
-.sprinkles14 {
-position: absolute;
-left: 41.63%;
-right: 56.27%;
-top: 8.11%;
-bottom: 85.88%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(-20.6deg);
-}
-
-.sprinkles15 {
-position: absolute;
-left: 0%;
-right: 97.89%;
-top: 94.37%;
-bottom: -0.38%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(-20.6deg);
-}
-
-.sprinkles16 {
-position: absolute;
-left: 14.64%;
-right: 83.77%;
-top: 19.2%;
-bottom: 76.76%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(42.6deg);
-}
-
-.sprinkles17 {
-position: absolute;
-left: 74.74%;
-right: 23.59%;
-top: 84.79%;
-bottom: 11.19%;
-background-color: #745F7E;
-border: 5px solid #745F7E;
-transform: rotate(29.91deg);
-}
-
-.sprinkles18 {
-position: absolute;
-left: 96.48%;
-right: 1.31%;
-top: 86.56%;
-bottom: 9.24%;
-background-color: #A8C5F1;
-border: 5px solid #A8C5F1;
-transform: rotate(123.3deg);
-}
-
-.sprinkles19 {
-position: absolute;
-left: 71.77%;
-right: 26.62%;
-top: 25.29%;
-bottom: 69.4%;
-background-color: #A8C5F1;
-border: 5px solid #A8C5F1;
-transform: rotate(-20.6deg);
-}
-
-.sprinkles20 {
-position: absolute;
-left: 92.88%;
-right: 5.51%;
-top: 2.93%;
-bottom: 91.75%;
-background-color: #6498E5;
-border: 5px solid #6498E5;
-transform: rotate(53.83deg);
-}
-
-.sprinkles21 {
-position: absolute;
-left: 53.16%;
-right: 45.93%;
-top: 90%;
-bottom: 6.52%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(176.69deg);
-}
-
-.sprinkles22 {
-position: absolute;
-left: 19.66%;
-right: 78.39%;
-top: 88.28%;
-bottom: 4.26%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(81.67deg);
-}
-
-.sprinkles23 {
-position: absolute;
-left: 3.1%;
-right: 94.96%;
-top: 4.03%;
-bottom: 88.51%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(81.67deg);
-}
-
-.sprinkles24 {
-position: absolute;
-left: 30.5%;
-right: 68.28%;
-top: 14.45%;
-bottom: 81.09%;
-background-color: #AA58D1;
-border: 5px solid #AA58D1;
-transform: rotate(168.26deg);
-}
-
-.sprinkles25 {
-position: absolute;
-left: 46.06%;
-right: 53.11%;
-top: 23.32%;
-bottom: 72.32%;
-background-color: #A8C8F7;
-border: 5px solid #A8C8F7;
-transform: matrix(0.46, 0.89, 0.89, -0.46, 0, 0);
-}
-
-.sprinkles26 {
-position: absolute;
-width: 15px;
-height: 11px;
-left: 76px;
-top: 200px;
-background-color: #A8C8F7;
-border: 5px solid #A8C8F7;
-}
-
-.sprinkles27 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 273.75px;
-top: 10.74px;
-background-color: #A8C8F7;
-border: 5px solid #A8C8F7;
-transform: rotate(75.88deg);
-}
-
-.sprinkles28 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 502.17px;
-top: 231.26px;
-background-color: #A8C8F7;
-border: 5px solid #A8C8F7;
-transform: rotate(168.97deg);
-}
-
-.sprinkles29 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 945.36px;
-top: 194.33px;
-background-color: #A8C8F7;
-border: 5px solid #A8C8F7;
-transform: rotate(-112.46deg);
-}
-
-.sprinkles30 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 945.36px;
-top: 194.33px;
-background-color: #A8C8F7;
-border: 5px solid #A8C8F7;
-transform: rotate(-112.46deg);
-}
-
-.sprinkles31 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 840.95px;
-top: 207.34px;
-background-color: #745F7E;
-border: 5px solid #745F7E;
-transform: rotate(-45.79deg);
-}
-
-.sprinkles32 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 362px;
-top: 237.56px;
-background-color: #745F7E;
-border: 5px solid #745F7E;
-transform: rotate(-45.79deg);
-}
-
-.sprinkles33 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 158.19px;
-top: 212.25px;
-background-color: #2C2330;
-border: 5px solid #2C2330;
-transform: rotate(79.54deg);
-}
-
-.sprinkles34 {
-position: absolute;
-width: 24.5px;
-height: 17.5px;
-left: 106.7px;
-top: 14.67px;
-background-color: #745F7E;
-border: 5px solid #745F7E;
-transform: rotate(17.11deg);
-}
-
 
 .menu {
-position: absolute;
-left: 0%;
-right: 85.26%;
-top: 0%;
-bottom: 4.55%;
+width: 98px;
+height: 46px;
+Font-Family: Knewave;
+Font-Style: Regular;
+Font Size: 40px;
+margin-bottom: 46px;
+text-align: Left;
+Fill: Solid: #000000;
+text-decoration: none;
 
-font-family: Knewave;
-font-style: normal;
-font-weight: normal;
-line-height: normal;
-font-size: 40px;
-
-color: #000000;
 }
+
 
 .gallery {
 position: absolute;
@@ -460,7 +93,7 @@ color: #000000;
 }
 
 .contact {
-position: absolute;
+position: center;
 left: 78.2%;
 right: 0%;
 top: 4.55%;
@@ -475,9 +108,12 @@ font-size: 40px;
 color: #000000;
 }
 
-.contact a {
-    color: #000000;
-    text-decoration: none;
-    padding-left: 10px;
-    padding-right: 10px;
+.menubackground {
+    position: absolute;
+}
+
+.menuimage {
+    position: relative;
+    top: 245px;
+    left: 278px;
 }
