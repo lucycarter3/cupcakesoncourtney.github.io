@@ -124,7 +124,7 @@ margin-right: auto;
 text-align: center;
 }
 
-.menupage {
+.menupage a{
 position: relative;
 margin-left: auto;
 margin-right: auto;
@@ -136,13 +136,9 @@ Line-Height: 46px;
 Fill: Solid: #000000;
 }
 
-a:link, a:visited {
-text-decoration: none;
-text-decoration-color: black;
-}
-
-.gallerypage {
+.gallerypage a{
 position: relative;
+padding-left: 20px;
 margin-left: auto;
 margin-right: auto;
 height: 46px;
@@ -153,13 +149,10 @@ Line-Height: 46px;
 Fill: Solid: #000000;
 }
 
-a:link, a:visited {
-text-decoration: none;
-text-decoration-color: black;
-}
 
-.aboutpage {
+.aboutpage a{
 position: relative;
+padding-left: 20px;
 margin-left: auto;
 margin-right: auto;
 margin-right: auto;
@@ -171,13 +164,10 @@ Line-Height: 46px;
 Fill: Solid: #000000;
 }
 
-a:link, a:visited {
-text-decoration: none;
-text-decoration-color: black;
-}
 
-.contactpage {
+.contactpage a{
 position: relative;
+padding-left: 20px;
 margin-left: auto;
 margin-right: auto;
 margin-right: auto;
@@ -187,9 +177,4 @@ Font-Style: Regular;
 Font-Size: 40px;
 Line-Height: 46px;
 Fill: Solid: #000000;
-}
-
-a:link, a:visited {
-text-decoration: none;
-text-decoration-color: black;
 }
