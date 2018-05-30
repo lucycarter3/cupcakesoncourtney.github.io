@@ -46,61 +46,7 @@ text-decoration: none;
 text-decoration-color: black;
 }
 
-.pagesband3 {
-width: 665px;
-height: 66px;
-margin-left: auto;
-margin-right: auto;
-text-align: center;
-}
 
-.menupage {
-position: relative;
-text-align: center;
-width: 98px;
-height: 46px;
-Font-Family: Knewave;
-Font-Style: Regular;
-Font-Size: 40px;
-Line-Height: 46px;
-Fill: Solid: #000000;
-}
-
-.gallerypage {
-position: relative;
-text-align: center;
-width: 129px;
-height: 46px;
-Font-Family: Knewave;
-Font-Style: Regular;
-Font-Size: 40px;
-Line-Height: 46px;
-Fill: Solid: #000000;
-}
-
-.aboutpage {
-position: relative;
-text-align: center;
-width: 107px;
-height: 46px;
-Font-Family: Knewave;
-Font-Style: Regular;
-Font-Size: 40px;
-Line-Height: 46px;
-Fill: Solid: #000000;
-}
-
-.contactpage {
-position: relative;
-text-align: center;
-width: 145px;
-height: 46px;
-Font-Family: Knewave;
-Font-Style: Regular;
-Font-Size: 40px;
-Line-Height: 46px;
-Fill: Solid: #000000;
-}
 
 
 .menu {
@@ -119,10 +65,6 @@ text-decoration: none;
 
 .gallery {
 position: absolute;
-left: 24.06%;
-right: 56.54%;
-top: 0%;
-bottom: 4.55%;
 
 font-family: Knewave;
 font-style: normal;
@@ -171,6 +113,82 @@ color: #000000;
 
 .menuimage {
     position: relative;
-    top: 245px;
+    top: 90px;
     left: 278px;
+}
+.pagesband3 {
+width: 1440px;
+height: 66px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+.menupage {
+position: relative;
+margin-left: auto;
+margin-right: auto;
+height: 46px;
+Font-Family: Knewave;
+Font-Style: Regular;
+Font-Size: 40px;
+Line-Height: 46px;
+Fill: Solid: #000000;
+}
+
+a:link, a:visited {
+text-decoration: none;
+text-decoration-color: black;
+}
+
+.gallerypage {
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 129px;
+height: 46px;
+Font-Family: Knewave;
+Font-Style: Regular;
+Font-Size: 40px;
+Line-Height: 46px;
+Fill: Solid: #000000;
+}
+
+a:link, a:visited {
+text-decoration: none;
+text-decoration-color: black;
+}
+
+.aboutpage {
+position: relative;
+margin-left: auto;
+margin-right: auto;
+height: 46px;
+Font-Family: Knewave;
+Font-Style: Regular;
+Font-Size: 40px;
+Line-Height: 46px;
+Fill: Solid: #000000;
+}
+
+a:link, a:visited {
+text-decoration: none;
+text-decoration-color: black;
+}
+
+.contactpage {
+position: relative;
+margin-left: auto;
+margin-right: auto;
+height: 46px;
+Font-Family: Knewave;
+Font-Style: Regular;
+Font-Size: 40px;
+Line-Height: 46px;
+Fill: Solid: #000000;
+}
+
+a:link, a:visited {
+text-decoration: none;
+text-decoration-color: black;
 }
