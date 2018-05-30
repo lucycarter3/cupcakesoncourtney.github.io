@@ -48,7 +48,10 @@ text-decoration-color: black;
 
 .pagesband {
 width: 665px;
-height: 66px;       
+height: 66px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
 }
 
 .menupage {
@@ -60,7 +63,6 @@ Font-Family: Knewave;
 Font-Style: Regular;
 Font-Size: 40px;
 Line-Height: 46px;
-Align: Left;
 Fill: Solid: #000000;
 }
 
