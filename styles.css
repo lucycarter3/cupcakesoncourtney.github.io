@@ -108,11 +108,21 @@ color: #000000;
     position: absolute;
 }
 
+.homeimage {
+    position: relative;
+    top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .menuimage {
     position: relative;
     top: 90px;
     left: 278px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .pagesband3 {
 width: 1440px;
 height: 66px;
